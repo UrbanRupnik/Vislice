@@ -7,7 +7,6 @@ Josip Plemelj
 Ivan Vidav
 
 Predsednik države:
-
 Borut Pahor
 
 Predsednik vlade:
