@@ -35,7 +35,7 @@ class Igra:
         return len(self.napacne_crke())
 
     def zmaga(self):
-        for c in geslo:
+        for c in self.geslo:
             if c not in self.crke:
                 return False
         return True
