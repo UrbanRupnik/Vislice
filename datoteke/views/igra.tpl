@@ -18,6 +18,7 @@
     <h1> ZMAGAL SI </h1>
   % elif poskus == "X":
     <h1> IZGUBIL SI </h1>
+    <h2> Geslo je bilo: {{ igra.geslo }} </h2>
   % else:
 
   <form action="/igra/{{id_igre}}/" method="post">
